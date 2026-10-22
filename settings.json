@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": morab.aternos.me
+    "ip": lamprey.aternos.host:53800
     "port": 53800
     "version": "",
     "try-creative": false
