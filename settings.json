@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "lamprey.aternos.host:53800",
+    "port":53800 ,
     "version": "",
     "try-creative": false
   },
